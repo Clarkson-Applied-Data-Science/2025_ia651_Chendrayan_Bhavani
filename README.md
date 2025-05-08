@@ -28,6 +28,8 @@ This project predicts whether a patient will miss a scheduled healthcare appoint
 
 This data allows health centers to anticipate no-shows and optimize their scheduling systems.
 
+![Data Exploration](https://github.com/Clarkson-Applied-Data-Science/2025_ia651_Chendrayan_Bhavani/blob/main/Images/Data%20Exploration.png)
+
 ---
 
 ## 🎯 Prediction Goal
@@ -81,6 +83,8 @@ The project followed an iterative structure:
 | 4    | `hypertension`    |
 
 All features were retained due to their independent utility and performance gain.
+
+![Feature Importance](https://github.com/Clarkson-Applied-Data-Science/2025_ia651_Chendrayan_Bhavani/blob/main/Images/Feature%20Importance.png)
 
 ---
 
